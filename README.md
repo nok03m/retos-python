@@ -8,3 +8,6 @@ Desarrolla un programa en Python que solicite al usuario ingresar un número ent
 
 ## 3. Calculadora nutricional rapida
 Tu tarea es crear un programa que le solicite al usuario que ingrese la cantidad en gramos de cada uno de estos tres componentes. Una vez que el programa tenga estos datos, deberá realizar el cálculo del total de calorías de la receta, considerando que cada gramo de proteína aporta 4 calorías, cada gramo de carbohidrato aporta 4 calorías y cada gramo de grasa aporta 9 calorías.
+
+## 4. Calculadora de Índice de Masa Corporal (IMC)
+El programa debe solicitar al usuario que ingrese su peso en kilogramos y posteriormente su altura en metros. Se espera que el programa maneje correctamente valores decimales para ambas entradas. Una vez ingresados los datos, el programa debe mostrar en la consola una única línea con el resultado del cálculo del IMC, el cual típicamente será un número con varios decimales.
