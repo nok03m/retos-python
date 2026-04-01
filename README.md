@@ -11,3 +11,9 @@ Tu tarea es crear un programa que le solicite al usuario que ingrese la cantidad
 
 ## 4. Calculadora de Índice de Masa Corporal (IMC)
 El programa debe solicitar al usuario que ingrese su peso en kilogramos y posteriormente su altura en metros. Se espera que el programa maneje correctamente valores decimales para ambas entradas. Una vez ingresados los datos, el programa debe mostrar en la consola una única línea con el resultado del cálculo del IMC, el cual típicamente será un número con varios decimales.
+
+## 5. Estadísticas de una Lista de Números
+El programa debe permitir al usuario ingresar N números enteros en una lista y luego calcular las siguientes estadísticas:
+> - El número mayor y el número menor de la lista.
+> - El promedio de los números.
+> - La cantidad de números pares e impares.
